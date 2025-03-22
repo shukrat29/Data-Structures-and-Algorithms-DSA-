@@ -18,7 +18,7 @@ Each problem includes:
 
 - **Problem Statement**
 - **Optimized Solution**
-- **Code Implementation (JavaScript, C++)**
+- **Code Implementation (JavaScript, Python)**
 
 ---
 
