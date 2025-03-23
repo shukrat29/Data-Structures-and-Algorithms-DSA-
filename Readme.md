@@ -12,7 +12,6 @@ This repository contains a **collection of DSA problems** categorized by **topic
 ✅ Strengthen your **DSA concepts**  
 ✅ Solve problems **topic-wise**  
 ✅ Prepare effectively for **coding interviews**  
-✅ Crack **FAANG-level** and **product-based** company interviews
 
 Each problem includes:
 
